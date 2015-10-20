@@ -1,4 +1,4 @@
 module.exports = {
-    Repository : require('./repository'),
-    Session : require('./session')
+    Repository : require('./lib/repository'),
+    Session : require('./lib/session')
 };
