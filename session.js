@@ -1,7 +1,3 @@
-/**
- * Created by kedemd on 4/1/2015.
- */
-// Session has commit and rollback, It wraps a data source and exports basic crud operations on the datasource
 var Async = require('async');
 
 var internals = {};

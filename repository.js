@@ -1,6 +1,3 @@
-/**
- * Created by kedemd on 4/16/2015.
- */
 var Async = require('async');
 var Hoek = require('hoek');
 var Uuid = require('node-uuid');
