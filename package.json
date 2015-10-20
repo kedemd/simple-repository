@@ -1,0 +1,22 @@
+{
+  "name": "simple-repository",
+  "version": "1.0.0",
+  "description": "A simple repository session framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kedem Diamant",
+  "license": "ISC",
+  "dependencies": {
+    "node-uuid": "^1.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kedemd/simple-repository.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kedemd/simple-repository/issues"
+  },
+  "homepage": "https://github.com/kedemd/simple-repository"
+}
