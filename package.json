@@ -1,6 +1,6 @@
 {
   "name": "simple-repository",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple repository session framework",
   "main": "index.js",
   "scripts": {
