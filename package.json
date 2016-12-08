@@ -11,6 +11,7 @@
   "dependencies": {
     "async": "^1.5.2",
     "hoek": "^2.16.3",
+    "nested-error-stacks": "^2.0.0",
     "node-uuid": "^1.4.7"
   },
   "repository": {
